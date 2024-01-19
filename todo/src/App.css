@@ -1,0 +1,8 @@
+.completed {
+  text-decoration: line-through;
+  color: #048b4c; /* Bootstrap's muted text color */
+}
+
+.list-group-item {
+  margin-bottom: 10px;
+}
